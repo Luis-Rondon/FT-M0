@@ -1,0 +1,5 @@
+Variable = es una referencia a un espacio en la memoria en el que está almacenado un dato.
+String = Tambien conocida como cadena de caracteres es un tipo de dato que se utiliza para almacenar texto.
+Funciones = La sentencia return se emplea para salir de la secuencia de ejecución de las sentencias de un método y, opcionalmente, devolver un valor. Tras la salida del método se vuelve a la secuencia de ejecución del programa al lugar de llamada de dicho método.
+Declaraciones = La sentencia condicional if se usa para tomar decisiones, este evaluá básicamente una operación lógica, es decir una expresión que de como resultado True o False , y ejecuta la pieza de código siguiente siempre y cuando el resultado sea verdadero.
+Valores boleanos = Los booleanos son un tipo de dato primitivo comúnmente usado en lenguajes de programación. Por definición, un booleano tiene 2 posibles valores: true (verdadero) o false (falso).
